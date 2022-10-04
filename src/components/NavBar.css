@@ -1,0 +1,11 @@
+.list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+  padding-top: 30px;
+}
+
+.listElement {
+  color: white;
+  padding-right: 30px;
+}
